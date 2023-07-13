@@ -1,0 +1,15 @@
+from task_5 import *
+
+SIZE = 49.5
+
+# print(f'{SIZE = }\n{result = }') # NameError: name 'result' is not defined
+# print(f'{z = }') # NameError: name 'z' is not defined
+print(f'{_secret = }')
+print(f'{func(100, 200) = }\n{randint(10, 20)}')
+
+
+def func(a: int, b: int) -> int:
+    return a + b
+
+
+print(f'{func(100, 200) = }')
