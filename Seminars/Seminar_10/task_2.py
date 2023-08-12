@@ -20,11 +20,14 @@ class Rectangle:
 
 
 r = Rectangle(5, 6)
+print(r.a)
+print(r.b)
 print(r.per())
 print(r.square())
 print(r.shape)
 
 r2 = Rectangle(5)
+print(r2.a)
 print(r2.b)
 print(r2.per())
 print(r2.square())

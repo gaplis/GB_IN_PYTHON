@@ -16,5 +16,6 @@ class Employee(Person):
     def _calculate_access(self):
         return sum(map(int, str(self.id_))) % 7
 
+
 e1 = Employee('Ivanov', 'Ivan', 'Ivanovich', '30', 123456)
 print(e1.access)
