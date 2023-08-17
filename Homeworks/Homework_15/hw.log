@@ -1,0 +1,10 @@
+2023-08-17 20:56:51,134 INFO - file/dir name: .idea, suffix: directory does not have extension, directory: True, parent_dir: Seminar_15
+2023-08-17 20:56:51,134 INFO - file/dir name: task_1, suffix: .log, directory: False, parent_dir: Seminar_15
+2023-08-17 20:56:51,134 INFO - file/dir name: task_1, suffix: .py, directory: False, parent_dir: Seminar_15
+2023-08-17 20:56:51,134 INFO - file/dir name: task_2, suffix: .log, directory: False, parent_dir: Seminar_15
+2023-08-17 20:56:51,134 INFO - file/dir name: task_2, suffix: .py, directory: False, parent_dir: Seminar_15
+2023-08-17 20:56:51,134 INFO - file/dir name: task_3, suffix: .log, directory: False, parent_dir: Seminar_15
+2023-08-17 20:56:51,135 INFO - file/dir name: task_3, suffix: .py, directory: False, parent_dir: Seminar_15
+2023-08-17 20:56:51,135 INFO - file/dir name: task_5, suffix: .log, directory: False, parent_dir: Seminar_15
+2023-08-17 20:56:51,135 INFO - file/dir name: task_5, suffix: .py, directory: False, parent_dir: Seminar_15
+2023-08-17 20:56:51,135 INFO - file/dir name: venv, suffix: directory does not have extension, directory: True, parent_dir: Seminar_15
